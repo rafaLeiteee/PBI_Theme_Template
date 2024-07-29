@@ -6,7 +6,7 @@ This template is for creating consistent Power BI report designs. You can downlo
 
 ## How to Use
 
-1. Download the .json file.
+1. Download the "PBI Report Template.json" file.
 2. **Optional**: Download the "schema" folder. This folder contains resources that can help with development but is not required for using the template. 
 3. **Optional**: Download the "theme_test.pbix" to see how the visuals respond to the theme.
 4. Open Power BI Desktop.
