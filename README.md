@@ -19,4 +19,4 @@ This template is for creating consistent Power BI report designs. You can downlo
 
 For more details, check the official documentation: [Power BI Theme Documentation](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-report-themes#report-theme-json-file-format)
 
-Credits to: Rafael Leite
+_Credits to: [Rafael Leite](https://www.linkedin.com/in/rafael-nc-leite/)_
